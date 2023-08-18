@@ -1,0 +1,1 @@
+[Account{accountid='000001', balance=500.0, customid='001', subjectid='A001B001'}, Account{accountid='000002', balance=800.0, customid='001', subjectid='A001B001'}]
